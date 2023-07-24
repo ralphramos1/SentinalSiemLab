@@ -1,7 +1,7 @@
 <h1>Azure Sentinal Siem Home Lab</h1>
 
 <h2>Description</h2>
-In this immersive experience, I have established Azure Sentinel, a robust SIEM solution, and successfully linked it to a live virtual machine, which I've designated as a honey pot. Through this setup, we will have the opportunity to witness real-time cyber attacks, specifically RDP Brute Force attempts originating from various global locations. To enhance our analysis, we will utilize a custom PowerShell script to retrieve the geolocation information of these attackers and dynamically plot it on the interactive Azure Sentinel Map, providing us with valuable insights into the geographical distribution of the threat landscape. Let the exploration of live cyber attacks and the power of Azure Sentinel's visualization capabilities begin!
+In this immersive experience, I have established Azure Sentinel, a SIEM solution, and successfully linked it to a live virtual machine, which I've designated as a honey pot. Through this setup, we will have the opportunity to witness real-time cyber attacks, specifically RDP Brute Force attempts originating from various global locations. To enhance our analysis, we will utilize a custom PowerShell script to retrieve the geolocation information of these attackers and dynamically plot it on the interactive Azure Sentinel Map, providing us with valuable insights into the geographical distribution of the threat landscape. Let the exploration of live cyber attacks and the power of Azure Sentinel's visualization capabilities begin!
 <br />
 
 
