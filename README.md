@@ -72,7 +72,7 @@ While setting this up, you can see we already have 2 attempts from India and Sin
 <br>
 <br>
 After leaving this on for 1 full day, here are the results.<br>
-<img src="https://i.imgur.com/NtHtq3h.png" height="100%" width="100%">
+<img src="https://i.imgur.com/Dq06dAF.png" height="100%" width="100%">
 <br>
 <br>
 <b>Conclusion</b><br>
